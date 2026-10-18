@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Tech Assist">
-<defs><linearGradient id="a" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#102c4c"/><stop offset="1" stop-color="#1b517e"/></linearGradient></defs>
-<rect width="512" height="512" rx="114" fill="url(#a)"/>
-<path d="M136 175h240M256 103v88" stroke="#5ac5df" stroke-width="20" stroke-linecap="round"/>
-<rect x="112" y="164" width="288" height="208" rx="35" fill="none" stroke="#fff" stroke-width="18"/>
-<path d="M162 267h63l27-53 34 104 27-51h42" fill="none" stroke="#5ac5df" stroke-width="18" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="256" cy="408" r="13" fill="#5ac5df"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect width="256" height="256" rx="54" fill="#102a43"/><path d="M55 72H201" stroke="#35c0db" stroke-width="10" stroke-linecap="round"/><rect x="62" y="91" width="132" height="97" rx="15" fill="none" stroke="#fff" stroke-width="10"/><path d="M87 141h26l13-24 19 47 13-24h19" fill="none" stroke="#35c0db" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M104 203h48" stroke="#fff" stroke-width="8" stroke-linecap="round"/></svg>
